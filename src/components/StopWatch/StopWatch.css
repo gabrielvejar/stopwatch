@@ -1,0 +1,12 @@
+.stopwatch {
+  display: flex;
+  width: 600px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.segment {
+  display: flex;
+  width: 120px;
+  justify-content: space-between;
+}
